@@ -1,6 +1,6 @@
 # OSU-BS-CS
-This repo contains my work and progress related to Oregon State University's Computer Science program.
-
+<p><img src="./imgs/OSU_horizontal_2C_O_over_B.png" alt="OSU_Logo.png" width="350"></p>
+This repo contains my progress at Oregon State University's Computer Science program.
 
 | Course | Course Title                                               | Language       | Description                                                                                                                                                                                                                                                                           | Date of Completion | Grade |
 | :----: | :--------------------------------------------------------: | :------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------: | :---: | 
